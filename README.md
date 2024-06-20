@@ -27,19 +27,19 @@ The next challenge I faced was how to determine which tweets were part of a thre
 ## Data Analysis
 
 ### 1. What is our current content strategy?
-![1 - content strategy](https://github.com/TomMitchell20/twitter-data-analysis/assets/53797436/1f885c72-bd1e-4db2-87ae-42c38ef0720d)
+![1 - content strategy](https://github.com/Sanchit0820/-Social-Media-Content-Strategy-Project/assets/144925796/ef95852d-9b2c-499d-83ff-34e880b3d2f1)
 Our current content strategy revolves around a balanced approach, designed to engage our audience while maintaining consistency. On a daily basis, we are publishing between **1-2 single posts**, ensuring that our audience receives regular updates and insights. This frequency allows us to maintain a consistent presence and provide timely information. Additionally, to foster deeper discussions and dive into more comprehensive topics, we are crafting **3-5 threads each week**. These threads serve as platforms for more in-depth content, encouraging audience interaction and enhancing our brand's thought leadership in specific areas. By combining these two content formats, we aim to cater to varying audience preferences, ensuring we deliver value consistently while encouraging meaningful engagement.
 
 ### 2. How do our impressions evolve over time?
-![2 - impressions over time](https://github.com/TomMitchell20/twitter-data-analysis/assets/53797436/d7785f5c-3126-43d6-a274-1ba235aa5c7e)
+![2 - impressions over time](https://github.com/Sanchit0820/-Social-Media-Content-Strategy-Project/assets/144925796/d9d695a7-ddfe-4c86-845e-0528a8902547)
 Diving into our data, I spotted some interesting shifts in how often our content is seen. In October, there was a big drop—**impressions fell by 43%**. This is a clear signal. It tells us that potentially our audiences’ preferences are changing or our content quality has dropped. It also further validates the need for this project as, if nothing were to change, I believe this trend would continue and tarnish our reputation as a brand.
 
 ### 3. Which type of content (threads or single posts) generates the highest engagement rate?
-![3 - engagement rate](https://github.com/TomMitchell20/twitter-data-analysis/assets/53797436/2f921456-48d9-421f-b66a-20f1b42b3eb3)
+![3 - engagement rate](https://github.com/Sanchit0820/-Social-Media-Content-Strategy-Project/assets/144925796/bdf43b08-a96f-4d11-848c-324979e6203b)
 When it comes to engaging our audience, **threads are clearly the winners**. They generate **double the engagement** compared to single posts. Specifically, threads have an engagement rate of 5%, while single posts lag behind at just 3%. This means that for every interaction we get on a single post, we're seeing two interactions on a thread. So, if we aim to capture more attention and interaction from our audience, **focusing on threads will be more effective.**
 
 ### 4. Do impressions follow the same trend? Threads generate ~65% more Impressions vs Single Posts
-![4 - impressions vs single posts](https://github.com/TomMitchell20/twitter-data-analysis/assets/53797436/19370d28-370d-4e18-99bc-f049f2bf08e8)
+![4 - impressions vs single posts](https://github.com/Sanchit0820/-Social-Media-Content-Strategy-Project/assets/144925796/fe00dfdf-d596-4148-b9ac-64447cf0fb9e)
 Looking at how many people see our content, **threads really stand out.** They get about **65% more views **than single posts do. To break it down, threads get 2.06 million views, while single posts only get 1.24 million. This shows that **threads are more effective in getting our content seen by a lot more people.**
 
 ### 5. Which type of content produces more user profile clicks and followers?
