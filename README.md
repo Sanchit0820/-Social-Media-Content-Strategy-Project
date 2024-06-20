@@ -39,7 +39,8 @@ Diving into our data, I spotted some interesting shifts in how often our content
 When it comes to engaging our audience, **threads are clearly the winners**. They generate **double the engagement** compared to single posts. Specifically, threads have an engagement rate of 5%, while single posts lag behind at just 3%. This means that for every interaction we get on a single post, we're seeing two interactions on a thread. So, if we aim to capture more attention and interaction from our audience, **focusing on threads will be more effective.**
 
 ### 4. Do impressions follow the same trend? Threads generate ~65% more Impressions vs Single Posts
-![4 - impressions vs single posts](https://github.com/Sanchit0820/-Social-Media-Content-Strategy-Project/assets/144925796/fe00dfdf-d596-4148-b9ac-64447cf0fb9e)
+![4 - impressions vs single posts](![no_of_impressions](https://github.com/Sanchit0820/-Social-Media-Content-Strategy-Project/assets/144925796/5a9d14fc-d3d1-4c74-a9ec-d9617b000253)
+)
 Looking at how many people see our content, **threads really stand out.** They get about **65% more views **than single posts do. To break it down, threads get 2.06 million views, while single posts only get 1.24 million. This shows that **threads are more effective in getting our content seen by a lot more people.**
 
 ### 5. Which type of content produces more user profile clicks and followers?
